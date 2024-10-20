@@ -11,4 +11,4 @@ To view the CV:
 
 ## Project Page URL
 
-You can view the live version of this CV at: https://parikhit120.github.io/single-page-cv/
+You can view the live version of this CV at: [https://parikhitm.github.io/single-page-cv/]
